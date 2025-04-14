@@ -1,0 +1,3 @@
+1. "City (Shahar) nomli klass yarating, unda quyidagi xossalar (properties) bo‘lsin: name (nomi), population (aholisi soni)."
+2. "City klassidan 5 ta obyekt yarating, ularni ma'lumotlar bilan to‘ldiring va massivga yozing."
+3. "Yaratgan shaharlaringizdan iborat massivni sikl (loop) yordamida aylantiring va har bir shaharning nomi hamda aholisi sonini ekranga chiqaring."

@@ -1,0 +1,2 @@
+1. "Mening kodimga qaramasdan, xuddi shunday User sinfini show() metodi bilan yozing."
+2. "Mening kodimga qaramasdan, xuddi shunday User sinfini show() metodi bilan yozing."

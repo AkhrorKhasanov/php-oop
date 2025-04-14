@@ -1,0 +1,3 @@
+1. Product (Mahsulot) nomli klass yarating, unda quyidagi xususiyatlar bo‘lsin: name (nomi), price (narxi).
+2. Product klassidan bir obyekt yarating va uni $product1 o‘zgaruvchisiga saqlang.
+3. $product1 o‘zgaruvchisining qiymatini $product2 ga belgilang. Ikkala o‘zgaruvchi ham bir xil obyektga murojaat qilayotganini tekshiring.

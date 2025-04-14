@@ -1,0 +1,2 @@
+1. "Mening kodimga qaramasdan, xuddi shunday Student (Talaba) klassini yaratib chiqing."
+2. "transferToNextCourse metodini shunday o‘zgartiringki, talaba yangi kursga o‘tganda, bu kurs 5-dan katta bo‘lmasligi tekshirilsin."

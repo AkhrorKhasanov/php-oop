@@ -1,0 +1,1 @@
+1. Mening Employee klassim va iProgrammer interfeysim kodini ko‘chiring. Programmer klassining tayyor namunasi (zagatovkasi)ga qaramang — bu klassni mustaqil ravishda, kodimga qaramasdan o‘zingiz yozing.

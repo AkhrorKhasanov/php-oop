@@ -1,0 +1,4 @@
+1. "Employee klassini yarating, unda quyidagi ochiq (public) xususiyatlar bo‘lsin — name (ism), age (yosh), salary (maosh). Bu xususiyatlar obyekt yaratilganda konstruktor orqali to‘ldiriladigan bo‘lsin."
+2. "'eric' ismi, 25 yosh, 1000 maosh bilan Employee klassidan obyekt yarating."
+3. "'kyle' ismi, 30 yosh, 2000 maosh bilan Employee klassidan obyekt yarating."
+4. "Yaratilgan foydalanuvchilarning (employee'larning) maoshlari yig‘indisini ekranga chiqaring."

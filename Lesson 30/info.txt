@@ -1,0 +1,4 @@
+1. "Num nomli klass yarating, unda ikkita ochiq (public) statik xususiyat — num1 va num2 bo‘lsin. num1 ga 2 sonini, num2 ga esa 3 sonini yozing. So‘ngra bu xususiyatlarning qiymatlari yig‘indisini ekranga chiqaring."
+2. "Num nomli klass yarating, unda ikkita yopiq (private) statik xususiyat — num1 va num2 bo‘lsin. num1 xususiyatida sukut bo‘yicha 2 soni, num2 xususiyatida esa 3 soni saqlansin."
+3. "Num klassida getSum nomli metod yarating, u num1 va num2 xususiyatlari qiymatlari yig‘indisini ekranga chiqaradigan bo‘lsin."
+4. "Geometry nomli klassimizga radius bo‘yicha shar hajmini hisoblaydigan metod qo‘shing. Ushbu metod yordamida radiusi 10 ga teng bo‘lgan shar hajmini ekranga chiqaring."

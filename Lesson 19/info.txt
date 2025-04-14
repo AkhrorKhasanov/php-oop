@@ -1,0 +1,4 @@
+1. "Kodimga qaramasdan, xuddi shunday User va Employee klasslarini o'zing mustaqil ravishda yoz."
+2. "Kodimga qaramasdan, User klassidan meros oluvchi xuddi shunday Student klassini mustaqil yoz."
+3. "Employee klassidan meros oluvchi Programmer klassini yarating. Yangi klassda langs degan xususiyat (property) bo‘lsin, unda dasturchi biladigan dasturlash tillari massiv tarzida saqlansin. Shuningdek, bu xususiyat uchun getter va setter metodlarini yarating."
+4. "Employee (xodim) klassidan meros oluvchi Driver (haydovchi) klassini yarating. Yangi klass quyidagi xususiyatlarni qo‘shsin: haydovchilik tajribasi (стаж), haydash toifasi (A, B, C, D). Shuningdek, bu xususiyatlar uchun getter va setter metodlarini ham yarating."

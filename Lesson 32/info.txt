@@ -1,0 +1,2 @@
+1. "Taklif etilgan Circle (Aylana) klassini mustaqil ravishda yozing (amalga oshiring)."
+2. "Yozilgan Circle (Aylana) klassi yordamida radiusi 10 bo‘lgan aylananing uzunligi va yuzasini toping."

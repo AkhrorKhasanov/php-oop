@@ -1,0 +1,15 @@
+1. name (ism) va salary (oylik) nomli ommaviy (public) xususiyatlarga ega bo‘lgan Employee (Xodim) klassini yarating.
+2. name (ism) va scholarship (stipendiya) nomli ommaviy (public) xususiyatlarga ega bo‘lgan Student (Talaba) klassini yarating.
+3. Har bir klassdan 3 tadan obyekt yarating va ularni ixtiyoriy tartibda $arr massiviga yozing.
+4. $arr massivini sikl yordamida aylaning va barcha ishchilarning ismlarini ustun ko‘rinishida ekranga chiqaring.
+5. Xuddi shuningdek, barcha talabalar ismlarini ustun ko‘rinishida ekranga chiqaring.
+6. Massivni $arr orqali aylantirib, ishchilarning maoshlarini va talabalar stipendiyalarining yig‘indisini toping. Tsikl tugagandan so‘ng, ushbu ikki sonni ekranga chiqaring.
+7. Foydalanuvchi (User) klassini yarating, unda ochiq (public) name va surname xususiyatlari bo'ladi.
+8. Employee (Ishchi) klassini yarating, u User (Foydalanuvchi) klassidan meros oladi va salary (maosh) xususiyatini qo'shadi.
+9. City (Shahar) klassini yarating, u name (nomi) va population (aholi soni) kabi ochiq (public) xususiyatlarga ega bo'lsin.
+10. User, Employee va City klasslaridan 3 ta obyekt yarating va ularni $arr massiviga tasodifiy tartibda yozing.
+11. $arr massivi bo'yicha siklni aylanib chiqing va ekranga User klassiga yoki uning vorislari (potomok) bo'lgan obyektlarning name xususiyatlarini chiqaring.
+12. $arr massivi bo'yicha siklni aylanib chiqing va ekranga User klassiga yoki uning vorislariga (potomok) tegishli bo'lmagan obyektlarning name xususiyatlarini chiqaring.
+13. $arr massivi bo'yicha siklni aylanib chiqing va ekranga faqat User klassiga tegishli obyektlarning name xususiyatlarini chiqarib bering, ya'ni City yoki Employee klasslariga tegishli obyektlarni chiqarib tashlang.
+14. Sizning Employee va Student klasslaringizni nusxalab, men sizning kodni ko'rmasdan UsersCollection nomli klassni yarataman.
+

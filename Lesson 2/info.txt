@@ -1,0 +1,5 @@
+1. "Employee (xodim) nomli sinfni yarating, unda quyidagi xususiyatlar (property) bo‘lsin — name (ism), age (yosh), salary (maosh)."
+2. "Employee sinfi obyektini yarating, so‘ngra uning xususiyatlarini quyidagi qiymatlarga o‘rnating — ismi 'john', yoshi 25, maoshi 1000."
+3. "Employee sinfining ikkinchi obyektini yarating va uning xususiyatlarini quyidagi qiymatlarga o‘rnating — ismi 'eric', yoshi 26, maoshi 2000."
+4. "Yaratilgan foydalanuvchilarning maoshlari yig‘indisini ekranga chiqaring."
+5. "Yaratilgan foydalanuvchilarning yoshi yig‘indisini ekranga chiqaring."

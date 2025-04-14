@@ -1,0 +1,1 @@
+1. Mening kodimga qaramasdan, xuddi shunday Arr nomli klassni yarat va obyekt yaratilgan zahoti uning getSum metodini chaqir.

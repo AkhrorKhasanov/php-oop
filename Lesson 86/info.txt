@@ -1,0 +1,4 @@
+1. Sizda core va project nomli ikkita papka bor deylik. Har bir papkada o‘zining Controller klassi mavjud. Ushbu klasslar har xil namespace (nomlar makoni)ga tegishli bo‘lishi kerak. index.php faylida ikkala klassdan ham obyekt yarating.
+2. Sizda modules/cart nomli papka bor deylik. Ushbu papkada joylashgan barcha klasslar Modules\Cart nomli makonga tegishli bo‘lishi kerak.
+3. Sizda modules/shop/cart/ nomli papka bor deylik. Ushbu papkada joylashgan barcha klasslar Modules\Shop\Cart nomli makonga tegishli bo‘lishi kerak.
+4. Sizda modules nomli papka bor deylik, unda marketCart.php va shopCart.php nomli fayllar mavjud. Har ikkala faylda Cart klassi joylashgan. Birinchi fayldagi klass Market\Cart nomli makonga, ikkinchi fayldagi klass esa Shop\Cart nomli makonga tegishli bo‘lishi kerak.

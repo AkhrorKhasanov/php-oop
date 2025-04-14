@@ -1,0 +1,7 @@
+1. Trait1, Trait2 va Trait3 nomli 3 ta trait yarating.
+Trait1 ichida 1 qiymatini qaytaruvchi method nomli metod bo‘lsin,
+Trait2 ichida ham method nomli metod bo‘lsin, lekin 2 qiymatini qaytarsin,
+Trait3 ichida ham method nomli metod bo‘lib, 3 qiymatini qaytarsin.
+Ya’ni, har bir traitda bir xil nomdagi method metodi bo‘lsin, lekin har biri turli qiymatni qaytarsin.
+2. Oldin yaratilgan uchta traitdan foydalanadigan Test nomli klass yarating.
+Bu klassda getSum nomli metod bo‘lsin, u traitlardagi metodlar qaytaradigan qiymatlar yig‘indisini qaytarsin.

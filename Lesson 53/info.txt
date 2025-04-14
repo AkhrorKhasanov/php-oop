@@ -1,0 +1,10 @@
+1. User nomli klass yarating, unda quyidagi xususiyatlar (property) bo‘lsin:
+
+name – ism,
+
+surname – familiya,
+
+patronymic – otasining ismi.
+
+Shuningdek, obyekt echo orqali chiqarilganda, foydalanuvchining to‘liq ismi (F.I.O.) ekranga chiqadigan bo‘lsin.
+2. Mening kodimga qaramasdan, xuddi shunday Arr nomli klassni o‘zingiz mustaqil ravishda yarating.

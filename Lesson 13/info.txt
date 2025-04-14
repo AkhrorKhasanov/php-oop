@@ -1,0 +1,2 @@
+1. "Yuqorida men yozgan klassga o‘xshash Arr nomli klassni yarating. Farqi shundaki, siz yaratadigan klassdagi add metodi parametr sifatida sonlardan iborat massivni qabul qilishi kerak. Ushbu massivdagi barcha sonlar $this->numbers massivining oxiriga qo‘shilishi kerak."
+2. "Shuningdek, sonlarning o‘rtacha arifmetigini hisoblab beradigan getAvg metodini ham yarating."

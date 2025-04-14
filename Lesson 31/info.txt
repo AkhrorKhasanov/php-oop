@@ -1,0 +1,2 @@
+1. "Mening kodimga qaramasdan, yaratilgan obyektlar sonini hisoblaydigan User nomli klassni yozing."
+2. "Darsning nazariy qismiga muvofiq ravishda, User klassingiz kodini mustaqil ravishda qayta ishlang."

@@ -1,0 +1,8 @@
+1. Product nomli klass yarating, unda name, price va quantity nomli xususiy (private) xossalar bo‘lsin. Ushbu barcha xossalar faqat o‘qish (ya’ni, readonly) uchun mavjud bo‘lsin.
+2. Product klassiga getCost nomli metod qo‘shing, bu metod mahsulotning to‘liq narxini (ya’ni narxini miqdoriga ko‘paytirib) hisoblab bersin.
+3. Cart (Savat) nomli klass yarating. Ushbu klass mahsulotlar (ya’ni Product klassiga tegishli obyektlar) ro‘yxatini massiv ko‘rinishida saqlaydi. Mahsulotlar products nomli xususiyatda saqlansin.
+4. Cart klassida mahsulotlarni qo‘shish uchun add metodini amalga oshiring.
+5. Cart klassida mahsulotlarni o‘chirish uchun remove metodini amalga oshiring. Ushbu metod o‘chiriladigan mahsulotning nomini parametr sifatida qabul qilishi kerak.
+6. Cart klassida mahsulotlarning umumiy qiymatini hisoblaydigan getTotalCost metodini amalga oshiring.
+7. Cart klassida mahsulotlarning umumiy miqdorini hisoblaydigan getTotalQuantity metodini amalga oshiring. Bu metod mahsulotlarning quantity xususiyatlarini yig'ib, jami miqdorni qaytarishi kerak.
+8. Cart klassida mahsulotlarning o'rtacha narxini hisoblaydigan getAvgPrice metodini amalga oshiring.

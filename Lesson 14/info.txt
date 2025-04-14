@@ -1,0 +1,3 @@
+1. City (Shahar) nomli klass yarating, unda quyidagi xossalar (properties) bo‘lsin — name (nomi), foundation (asos solingan sana), population (aholisi). Ushbu klassdan bir obyekt yarating.
+2. "Agar $props nomli o‘zgaruvchi berilgan bo‘lsa, unda City klassining xossalari nomlaridan iborat massiv saqlanadi. Ushbu massivni foreach sikli yordamida aylantirib, tegishli xossalarning qiymatlarini ekranga chiqarish."
+3. "Mening kodimdagi User klassini va $props massivini nusxalash. Mening misolimda ekranda foydalanuvchining familiyasi chiqarilmoqda. Endi, shuningdek, ism va otasining ismini ham chiqarish."

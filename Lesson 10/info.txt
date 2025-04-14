@@ -1,0 +1,1 @@
+"Bir nechta klasslarni turli fayllarda yarating. Klasslaringizni index.php fayliga ulash."

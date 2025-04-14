@@ -1,0 +1,5 @@
+1. "Mening kodimga qaramasdan, User nomli abstrakt klassni va undan meros olgan Employee va Student klasslarini mustaqil ravishda yarating."
+2. "User klassingizga shunday abstrakt metod increaseRevenue qo‘shing. Ushbu metodni Employee va Student klasslarida amalga oshiring."
+3. "Shuningdek, User klassingizga decreaseRevenue (maoshni kamaytirish) nomli abstrakt metodni qo‘shing. Ushbu metodni Employee va Student klasslarida amalga oshiring."
+4. "Rectangle (to‘rtburchak) nomli shunga o‘xshash klassni yarating, unda ikki privat xususiyat bo‘lsin: $a (eni uchun) va $b (uzunlik uchun). Ushbu klass Figure klassidan meros olib, uning metodlarini amalga oshirishi kerak."
+5. "Figure klassiga getSquarePerimeterSum nomli metod qo‘shing, u maydon va perimetrning yig‘indisini hisoblaydi."

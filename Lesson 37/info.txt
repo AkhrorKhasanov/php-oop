@@ -1,0 +1,2 @@
+1. "Mening kodimga qaramasdan FiguresCollection degan xuddi shunday klassni mustaqil ravishda yozing."
+2. "FiguresCollection klassiga barcha figuralarning umumiy perimetrini hisoblaydigan getTotalPerimeter metodini qo‘shing."

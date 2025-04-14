@@ -1,0 +1,1 @@
+1. iSphere interfeysini amalga oshiruvchi Sphere nomli klass yarating.

@@ -1,0 +1,2 @@
+1. User klassi kodini shunday o‘zgartiringki, setName metodida ism uzunligi 3 ta belgidan ko‘p ekanligi tekshirilsin.
+2. Student klassiga setName metodini qo‘shing, unda ism uzunligi 3 ta belgidan ko‘p va 10 ta belgidan kam bo‘lishi tekshirilsin. Ushbu metod isming uzunligi 3 ta belgidan ko‘p ekanligini tekshirish uchun ota klassining setName metodidan foydalansin.

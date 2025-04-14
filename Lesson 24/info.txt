@@ -1,0 +1,4 @@
+1. Arr va SumHelper sinflarini mustaqil ravishda men tasvirlaganidek takrorlang.
+2. AvgHelper nomli klass yarating, unda getAvg nomli metod bo‘lsin. Bu metod parametr sifatida massiv qabul qiladi va ushbu massivning o‘rta arifmetigini (ya’ni elementlar yig‘indisini ularning soniga bo‘lish orqali) qaytaradi.
+3. AvgHelper klassiga getMeanSquare nomli metodni ham qo‘shing. Bu metod parametr sifatida massiv qabul qiladi va ushbu massivning o‘rtacha kvadratik qiymatini (elementlar kvadratlari yig‘indisining ularning soniga bo‘linganidan kvadrat ildiz chiqarilgan qiymatni) qaytaradi.
+4. Arr klassiga getAvgMeanSum nomli metod qo‘shing. Bu metod $this->nums massivining o‘rtacha arifmetik qiymati va o‘rtacha kvadratik qiymati yig‘indisini hisoblab beradi.

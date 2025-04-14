@@ -1,0 +1,5 @@
+1. Figure3d (uch o‘lchamli figura) nomli interfeys yarating, u quyidagi metodlarga ega bo‘lsin: getVolume (hajmni olish) va getSurfaceSquare (yuzani olish).
+2. Figure3d interfeysini amalga oshiruvchi Cube nomli klass yarating.
+3. Quadrate, Rectangle va Cube sinflaridan bir nechta obyektlar yarating va ularni tasodifiy tartibda $arr massiviga joylashtiring.
+4. $arr massivini sikl (tsikl) orqali aylanib chiqing va faqatgina iFigure interfeysini amalga oshiruvchi obyektlarning yuza maydonini (square) ekranga chiqaring.
+5. "$arr" massivini sikl yordamida aylanib chiqing va agar obyekt tekis figura (2D) bo‘lsa, uning maydonini, agar u hajmli figura (3D) bo‘lsa, sirt yuzasini ekranga chiqaring.

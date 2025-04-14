@@ -1,0 +1,9 @@
+1. Post (lavozim) klassini yarating, unda faqat o‘qish uchun mo‘ljallangan quyidagi xususiyatlar bo‘lsin: name (nomi) va salary (maoshi).
+2. Post (Lavozim) klassidan bir nechta obyekt yarating: dasturchi, menejer, haydovchi.
+3. Employee (Xodim) klassini yarating, unda quyidagi xususiyatlar bo‘lsin: name (ism) va surname (familiya). Ushbu xususiyatlarning boshlang‘ich qiymatlari konstruktor orqali uzatilishi kerak.
+4. name (ism) va surname (familiya) xususiyatlari uchun getter (oluvchi) va setter (o‘rnatuvchi) metodlarini yarating.
+5. Endi konstruktorning uchinchi parametri sifatida xodimning lavozimi (doljnosti) uzatiladigan bo‘lsin, u Post klassining obyekti bo‘ladi. Ushbu parametrning turini aniq ko‘rsating.
+6. Xodimning lavozimi (ya’ni, uzatilgan lavozim obyekti) post nomli xususiyatga yoziladigan qilib yarating.
+7. Dasturchi lavozimi bilan Employee (xodim) klassidan obyekt yarating. Uni yaratishda ilgari yaratilgan Post (lavozim) klassi obyektlaridan birini foydalaning.
+8. Yaratilgan xodimning ismi, familiyasi, lavozimi va maoshini ekranga chiqaring.
+9. Employee (Xodim) klassida changePost nomli metodni amalga oshiring, u xodimning lavozimini boshqa lavozimga o‘zgartiradi. Metod parametr sifatida Post klassining obyektini qabul qilishi kerak. Metodda qabul qilinadigan parametrning tipini aniq ko‘rsating.

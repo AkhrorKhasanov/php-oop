@@ -1,0 +1,33 @@
+1. Quyidagi User klassi berilgan bo‘lsin, uning xossalari faqat getterlar yordamida o‘qilishi mumkin (ya’ni, faqat o‘qish uchun mavjud).
+	class User
+	{
+		private $name;
+		private $age;
+		
+		public function __construct($name, $age)
+		{
+			$this->name = $name;
+			$this->age = $age;
+		}
+		
+		public function getName()
+		{
+			return $this->name;
+		}
+		
+		public function getAge()
+		{
+			return $this->age;
+		}
+	}
+"Quyidagi kabi User klassi berilgan bo‘lsin, uning xossalari faqat getter metodlari yordamida o‘qilishi mumkin bo‘lsin."
+2. Quyidagi User klassi berilgan bo‘lsin, uning xossalari (propertylari) faqat o‘qish (read) uchun getter metodlari orqali mavjud bo‘lsin.
+Date nomli klass yarating, unda quyidagi ommaviy (public) xossalar bo‘lsin:
+
+year – yil
+
+month – oy
+
+day – kun
+
+Sehrli metodlar (magic methods) yordamida weekDay xossasini yarating, u berilgan sanaga mos haftaning kunini qaytarsin.

@@ -1,0 +1,2 @@
+1. O‘zingiz mustaqil ravishda meniki kabi xuddi shunday traitlar yarating va ularni Test nomli klassga ulang.
+Shuningdek, bu klassda getSum nomli metod yarating, u traitlardagi metodlar qaytaradigan qiymatlar yig‘indisini qaytarsin.

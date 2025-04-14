@@ -1,0 +1,5 @@
+1. Aytaylik, $methods nomli massivda method1 va method2 degan kalitlar bor va ular mos ravishda getName va getAge metodlariga bogʻlangan.
+<?php
+	$methods = ['method1' => 'getName', 'method2' => 'getAge'];
+?>
+Siz foydalanuvchining ismi va yoshini ushbu massiv orqali ekranga chiqarishingiz kerak.

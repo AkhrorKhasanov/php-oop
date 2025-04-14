@@ -1,0 +1,3 @@
+1. Rectangle klassi iFigure va iTetragon interfeyslarini ham amalga oshiradigan qilib yarating.
+2. getRadius va getDiameter metodlariga ega bo‘lgan iCircle nomli interfeys yarating.
+3. Disk klassi ham iFigure, ham iCircle interfeyslarini amalga oshiradigan (implementatsiya qiladigan) bo‘lsin.

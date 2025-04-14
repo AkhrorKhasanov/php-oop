@@ -1,0 +1,4 @@
+1. "Kub figurasini tasvirlaydigan iCube nomli interfeys yarating. Bu interfeys kubning tomon uzunligini qabul qiladigan konstruktorni va kubning hajmini hamda sirt yuzasini hisoblaydigan metodlarni o‘z ichiga olsin."
+2. "iCube interfeysini amalga oshiruvchi Cube nomli klass yarating."
+3. "Foydalanuvchini tasvirlovchi iUser nomli interfeys yarating. Foydalanuvchining ismi va yoshi bo‘ladi, va bu qiymatlar konstruktor orqali uzatiladi, deb hisoblanadi. Interfeys foydalanuvchining ismi va yoshini olish uchun getter metodlar (lekin setter emas) bo‘lishi kerakligini ham belgilab qo‘ysin."
+4. "iUser interfeysini amalga oshiruvchi User nomli klass yarating."

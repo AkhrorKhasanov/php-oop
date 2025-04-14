@@ -1,0 +1,1 @@
+1. Mening kodimga qaramasdan, xuddi shunday Arr nomli klassni mustaqil yozing. Klass metodlari zanjir orqali chaqiriladigan bo‘lishi kerak (method chaining).

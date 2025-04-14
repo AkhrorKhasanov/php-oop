@@ -1,0 +1,1 @@
+1. Mening User klassim kodini ko‘chirib oling. Mustaqil ravishda, kodimga qaramasdan, quyidagi metodlarga ega bo‘lgan Student klassini yozing: getCourse, setCourse va addOneYear.

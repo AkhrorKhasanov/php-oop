@@ -1,0 +1,11 @@
+1. compare nomli funksiya yarating, bu funksiya parametr sifatida ikkita obyekt qabul qiladi va agar ular bir xil xossalarga ega bo‘lsa hamda qiymatlari bir xil klassning nusxasi bo‘lsa true qaytarsin, aks holda false qaytarsin.
+2. compare nomli funksiya yarating, u parametr sifatida ikkita obyektni qabul qiladi va agar uzatilgan o‘zgaruvchilar bir xil obyektga murojaat qilsa true, agar har xil obyektlarga murojaat qilsa false qiymatini qaytarsin.
+3. compare nomli funksiya yarating, u parametr sifatida ikkita obyektni qabul qiladi va ularni taqqoslaydi.
+
+Agar uzatilgan o‘zgaruvchilar bir xil obyektga murojaat qilsa, funksiya 1 qaytarishi kerak.
+
+Agar obyektlar har xil bo‘lsa, lekin bir xil klassga tegishli bo‘lib, bir xil xususiyat va qiymatlarga ega bo‘lsa, funksiya 0 qaytarishi kerak.
+
+Boshqa holatlarda funksiya -1 qaytarishi kerak.
+4. Mening Employee klassim kodini nusxa oling, so‘ngra mustaqil ravishda EmployeesCollection deb nomlangan tavsiflangan klassni yarating va uning ishini tekshirib ko‘ring.
+5. in_array funksiyasidan foydalangan holda EmployeesCollection klassingizni soddalashtiring va uning ishlashini tekshirib ko‘ring.

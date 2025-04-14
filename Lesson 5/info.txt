@@ -1,0 +1,3 @@
+1. "Mening kodimga qaramasdan, xuddi shunday User sinfini va uning metodlarini yarating."
+2. "User sinfidan obyekt yarating va setAge va addAge metodlarining ishlashini tekshirib ko‘ring."
+3. "Shuningdek, subAge metodini qo‘shing, bu metod hozirgi yoshi­ni berilgan miqdorda kamaytiradi."

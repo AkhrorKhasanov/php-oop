@@ -1,0 +1,3 @@
+<?php
+
+// Ssilka yo'q

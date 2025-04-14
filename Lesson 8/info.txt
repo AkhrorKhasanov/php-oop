@@ -1,0 +1,4 @@
+1. "Employee klassini yarating, unda quyidagi xususiyatlar privat (yashirin) bo‘lsin: name (ism), age (yosh) va salary (maosh)."
+2. "Employee klassidagi barcha xususiyatlar (name, age, salary) uchun getter (oluvchi) va setter (o‘rnatuvchi) metodlarini yarating."
+3. "Employee klassiga isAgeCorrect nomli privat metod qo‘shing, u yoshning to‘g‘riligini tekshiradi (1 dan 100 gacha). Bu metod setAge metodida ishlatilishi kerak: agar yosh noto‘g‘ri bo‘lsa — u o‘zgarmasligi kerak."
+4. "Ishchilarning maoshi dollarda saqlansin. getSalary metodi maosh raqamining oxiriga dollar belgisi ($) qo‘shib qaytarsin. Boshqacha aytganda, salary xususiyati oddiy raqam sifatida saqlanadi, lekin getter metod uni $ belgisi bilan qaytaradi."

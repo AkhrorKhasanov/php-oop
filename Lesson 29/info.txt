@@ -1,0 +1,2 @@
+1. "ArraySumHelper klassining metodlarini statik metodlarga aylantiring."
+2. "Faraz qilaylik, sonlardan iborat massiv berilgan. ArraySumHelper klassi yordamida ushbu massiv elementlarining kvadratlari yig‘indisini toping."

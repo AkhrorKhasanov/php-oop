@@ -1,0 +1,15 @@
+1. name, age va population xususiyatlariga (property) ega bo‘lgan Country nomli klassni yarating hamda ular uchun getter metodlarini yozing.
+2. Trait1, Trait2 va Trait3 nomli 3 ta trait yarating.
+Trait1 ichida 1 qiymatini qaytaruvchi method1 nomli metod bo‘lsin,
+Trait2 ichida 2 qiymatini qaytaruvchi method2,
+Trait3 ichida 3 qiymatini qaytaruvchi method3 metodi bo‘lsin.
+Bu metodlarning barchasi private bo‘lishi kerak.
+3. Oldin yaratilgan uchta traitdan foydalanadigan Test nomli klass yarating.
+Bu klassda getSum nomli ommaviy (public) metod bo‘lsin, u traitlardagi metodlar qaytaradigan qiymatlar yig‘indisini qaytarsin.
+
+
+
+
+
+
+

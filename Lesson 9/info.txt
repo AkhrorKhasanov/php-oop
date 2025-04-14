@@ -1,0 +1,2 @@
+1. "name, surname va salary xususiyatlariga ega bo‘lgan Employee (xodim) klassini yarating."
+2. "name va surname xususiyatlari faqat o‘qish uchun ochiq bo‘lsin, salary xususiyati esa o‘qish va yozish uchun ruxsat etilsin."

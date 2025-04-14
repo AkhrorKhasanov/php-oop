@@ -1,0 +1,6 @@
+1. "Mening kodimga qaramasdan, User sinfiga xuddi shunday o‘zgartirishlar kiriting."
+2. "Tashqaridan isAgeCorrect metodini chaqirib ko‘ring. Bu xatolikni keltirib chiqarishini tekshirib ko‘ring."
+3. "Student sinfini yarating, unda $name (studentning ismi) va $course (studentning kursi, 1-dan 5-gacha) xususiyatlari bo‘lsin."
+4. "Student sinfida public transferToNextCourse metodini yarating, bu metod studentni keyingi kursga o‘tkazadi."
+5. "transferToNextCourse metodida tekshiruvni bajaring, shunda keyingi kurs 5-dan katta bo‘lmasligi kerak."
+6. "Kursni tekshiruvni alohida private isCourseCorrect metodiga ajrating."
